@@ -1,0 +1,11 @@
+#paragraph-1 {
+    color: red;
+}
+
+p.introduce {
+    color: blue;
+}
+
+p[name="hoang"] {
+    color: green;
+}
