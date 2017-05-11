@@ -1,0 +1,7 @@
+
+p.hoang {
+    color: green
+}
+p:not(.hoang) {
+    color: red;
+}
