@@ -1,24 +1,4 @@
-table, td, th {
-    border: 1px solid black;
-    border-collapse: collapse;
-    width: 50%;
-    padding: 5px;
-}
-table {
-    background-color: #f1f1f1;
-}
-tr {
-
-}
-td {
-    text-align: left;
-}
-th {
-    text-align: left;
-    background-color: green;
-    color: white;
-}
-
-table tr:nth-child(even) {
-    background-color: salmon;
+h1 {
+    background-color:#fe9601;
+    padding: 50px 20px 30px 20px;
 }
