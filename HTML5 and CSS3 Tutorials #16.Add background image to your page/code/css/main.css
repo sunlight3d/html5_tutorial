@@ -1,0 +1,11 @@
+div {
+    height: 100vh;
+    width: 100%;
+    background-color: green;
+    background-image: url(../images/flower.png),
+                      url(../images/flower.png);
+    background-position: left top, right top;
+    background-repeat: repeat-y;
+    /*background-position: center top;*/
+    /*background-attachment: fixed;*/
+}

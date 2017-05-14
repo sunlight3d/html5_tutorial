@@ -1,0 +1,13 @@
+div {
+    background-color: green;
+    color: white;
+    width: 50%;
+    border: 2px solid red;
+    padding-left: 10px;
+}
+
+span {
+    text-decoration: underline;
+    background-color: purple;
+    padding-left: 10px;
+}
