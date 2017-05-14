@@ -1,0 +1,24 @@
+/*div.blue-div {
+
+}
+div.blue-div p {
+    background-color: red;
+}*/
+
+/*div#div-blue-id {
+    background-color: blue;
+    padding: 5px;
+}
+
+div#div-blue-id p {
+    background-color: yellow;
+}*/
+
+div {
+    background-color: purple;
+    padding: 5px;
+}
+
+div p {
+    background-color: yellow;
+}
