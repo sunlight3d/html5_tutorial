@@ -1,6 +1,9 @@
-orange-juice {
-    background-color: orange;
+p.orance-juice {
+    color: orange;
 }
-lemon-juice {
-    background-color: green;
+p.lemon-juice {
+    color: green;
+}
+h2.lemon-juice {
+    color: red;
 }
